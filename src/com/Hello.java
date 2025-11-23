@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("Hello All Java Lovers");
 		System.out.println("code changes from local eclipse line no 7");
 		System.out.println(" code changes from github line no 7");
+		System.out.println("code changes from github only");
 	}
 
 }

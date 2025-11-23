@@ -4,7 +4,6 @@ public class Hello {
 
 	public static void main(String[] args) {
 		System.out.println("Hello All Java Lovers");
-		System.out.println("line no 7 changed from eclipse ");
 	}
 
 }
